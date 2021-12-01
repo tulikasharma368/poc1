@@ -1,0 +1,29 @@
+.alertdiv {
+  position: absolute !important;
+  top: 85vh !important;
+}
+
+#simple-popper {
+  top: 10px !important;
+}
+
+.css-wudn58 {
+  background-color: #3254a8 !important;
+  border: none;
+  color: white;
+}
+
+.popperbuttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+}
+
+.popbuts {
+  border: none;
+  color: #3254a8;
+  font-weight: 600;
+  padding: 5px;
+  width: 70px;
+}
